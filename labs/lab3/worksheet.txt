@@ -1,0 +1,35 @@
+/* Shana Slavin
+   CPSC 2311 Section 001
+   Due September 13, 2018
+*/
+
+
+1. while_loop.s
+A = 18 B= 1 C = 18
+
+
+
+2. do_while.s
+The triangular number for 4 is 10
+
+
+
+3. 
+
+----------------------------------
+Branch    |  N  |  and/or  |  Z  |
+----------------------------------
+b or bal  |  X  |    --    |  X  |
+beq       |  X  |    --    |  1  |
+bne       |  X  |    --    |  0  |
+blt       |  1  |    --    |  X  |
+ble       |  1  |    And   |  1  |
+bgt       |  0  |    Or    |  0  |
+bge       |  0  |    --    |  X  |
+----------------------------------
+
+4. if_else.s
+Z = 0
+
+
+
